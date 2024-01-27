@@ -42,6 +42,6 @@ body {
   align-items: center;
   justify-items: center;
   gap: 10px;
-  grid-template-columns: repeat(4, 80px);
+  grid-template-columns: repeat(6, 80px);
   grid-template-rows: repeat(auto-fill, 100px);
 }
